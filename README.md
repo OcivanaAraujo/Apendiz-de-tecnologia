@@ -64,3 +64,4 @@ A proposta não é apresentar apenas resultados finais, mas **documentar o proce
 
 > 🌱 Do aprendizado inicial à aplicação da tecnologia em problemas reais.
 
+🌱 Meu primeiro teste utilizando Git localmente.
