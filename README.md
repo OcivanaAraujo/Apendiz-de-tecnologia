@@ -1,36 +1,66 @@
 # 🧑‍💻 Aprendiz de Tecnologia
 
-Este repositório reúne minha trajetória de aprendizagem em tecnologia.
+Este repositório documenta minha trajetória de aprendizagem na área de tecnologia.
 
 Aqui registro cursos, estudos, exercícios, experimentos e projetos desenvolvidos ao longo da minha formação.
 
 ## 🎯 Objetivo
 
-Desenvolver conhecimentos e habilidades em:
+Construir uma base sólida em tecnologia e desenvolver habilidades que possam ser aplicadas à **análise de dados, ciência de dados, dados ambientais e geoprocessamento**.
 
-- Lógica de programação
-- Python
-- Git e GitHub
-- Análise de dados
-- Ciência de dados
-- SQL
-- Visualização de dados
-- Geoprocessamento
-- QGIS
-- Dados ambientais
+## 📚 Áreas de aprendizagem
 
-## 📚 Em aprendizagem
+* Lógica de Programação
+* Python
+* Git e GitHub
+* Análise de Dados
+* Pandas e NumPy
+* SQL
+* Visualização de Dados
+* Power BI
+* QGIS
+* Geoprocessamento
+* Dados Ambientais
+* Ciência de Dados
 
-Atualmente estou construindo minha base em programação e análise de dados, com foco na aplicação da tecnologia a problemas ambientais.
+## 🗂️ Organização do repositório
 
-## 🗂️ Organização
-
-Os conteúdos serão organizados por área de estudo e nível de desenvolvimento.
+| Pasta                      | Conteúdo                                               |
+| -------------------------- | ------------------------------------------------------ |
+| `01-Fundamentos`           | Conceitos básicos de tecnologia e computação           |
+| `02-Python`                | Estudos e exercícios de Python                         |
+| `03-Logica-de-Programacao` | Lógica, algoritmos e resolução de problemas            |
+| `04-Git-e-GitHub`          | Versionamento e uso do GitHub                          |
+| `05-Pandas-e-NumPy`        | Manipulação e análise de dados                         |
+| `06-SQL`                   | Banco de dados e consultas SQL                         |
+| `07-Visualizacao-de-Dados` | Gráficos e apresentação de dados                       |
+| `08-Power-BI`              | Business Intelligence e dashboards                     |
+| `09-QGIS`                  | Sistemas de Informação Geográfica                      |
+| `10-Geoprocessamento`      | Análise e processamento de dados espaciais             |
+| `11-Dados-Ambientais`      | Aplicação da tecnologia a dados ambientais             |
+| `12-Projetos`              | Projetos práticos desenvolvidos durante a aprendizagem |
+| `Cursos`                   | Registros e atividades dos cursos realizados           |
 
 ## 🚀 Projetos
 
-Os projetos desenvolvidos durante a aprendizagem serão registrados aqui, incluindo objetivos, ferramentas utilizadas, metodologia e resultados.
+Os projetos serão documentados com:
+
+* objetivo;
+* problema;
+* ferramentas utilizadas;
+* metodologia;
+* código;
+* resultados;
+* dificuldades encontradas;
+* aprendizados.
+
+## 📈 Minha evolução
+
+Este repositório será atualizado conforme avanço nos estudos.
+
+A proposta não é apresentar apenas resultados finais, mas **documentar o processo de aprendizagem**, incluindo erros, descobertas, exercícios e projetos.
 
 ---
 
-> Este repositório documenta minha evolução como aprendiz de tecnologia.
+> 🌱 Do aprendizado inicial à aplicação da tecnologia em problemas reais.
+
