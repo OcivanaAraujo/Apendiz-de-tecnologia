@@ -65,3 +65,5 @@ A proposta não é apresentar apenas resultados finais, mas **documentar o proce
 > 🌱 Do aprendizado inicial à aplicação da tecnologia em problemas reais.
 
 📥 Teste de sincronização com git pull.
+
+🌿 Teste realizado na branch aprendizado-git.
